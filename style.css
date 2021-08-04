@@ -1,0 +1,16 @@
+body{
+    background: yellow;
+    color: blue;
+    text-align: center;
+  }
+  #h1{
+    color:red;
+    background: white;
+  }
+  button{
+    background:red;
+    width:100px;
+    height:30px;
+    border-radius:25px;
+    cursor:pointer;
+  }
